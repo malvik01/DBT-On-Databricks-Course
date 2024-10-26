@@ -1,4 +1,4 @@
-# DBT-On-Databricks-Course
+# DBT-With-Databricks-Course
 Welcome to the repository for the Udemy course "DBT on Databricks". This repository serves as a supplementary resource, specifically providing .sql and .yml file used in the course.
 
 ## Wiki
